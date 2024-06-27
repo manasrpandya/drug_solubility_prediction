@@ -1,0 +1,151 @@
+System No,Solute,Solvent 1,Solvent 2,Xs_Exper,x1,x2,xs1p,xs2p,Temp
+1.0,Paracetamol,Dioxane,Water,0.0019,0.0,1.0,0.0267,0.0019,298.0
+1.0,Paracetamol,Dioxane,Water,0.0267,1.0,0.0,0.0267,0.0019,298.0
+1.0,Paracetamol,Dioxane,Water,0.0023,0.0,1.0,0.0294,0.0023,303.0
+1.0,Paracetamol,Dioxane,Water,0.0294,1.0,0.0,0.0294,0.0023,303.0
+2.0,Acetanilide,Dioxane,Water,0.0008,0.0,1.0,0.1199,0.0008,298.0
+2.0,Acetanilide,Dioxane,Water,0.1199,1.0,0.0,0.1199,0.0008,298.0
+2.0,Acetanilide,Dioxane,Water,0.0009,0.0,1.0,0.1336,0.0009,303.0
+2.0,Acetanilide,Dioxane,Water,0.1336,1.0,0.0,0.1336,0.0009,303.0
+3.0,Nalidixic Acid,Dioxane,Water,2.4e-06,0.0,1.0,0.001162,2.4e-06,298.0
+3.0,Nalidixic Acid,Dioxane,Water,0.001162,1.0,0.0,0.001162,2.4e-06,298.0
+3.0,Nalidixic Acid,Dioxane,Water,2.9e-06,0.0,1.0,0.00134,2.9e-06,303.0
+3.0,Nalidixic Acid,Dioxane,Water,0.00134,1.0,0.0,0.00134,2.9e-06,303.0
+4.0,Anthracene,squalane,dibutyl ether,0.00354,0.0,1.0,0.00472,0.00354,298.0
+4.0,Anthracene,squalane,dibutyl ether,0.00472,1.0,0.0,0.00472,0.00354,298.0
+5.0,Anthracene,Hexadecane,dibutyl ether,0.00354,0.0,1.0,0.0038,0.00354,298.0
+5.0,Anthracene,Hexadecane,dibutyl ether,0.0038,1.0,0.0,0.0038,0.00354,298.0
+6.0,Carbazole,dibutyl ether,squalane,0.000671,0.0,1.0,0.00501,0.000671,298.0
+6.0,Carbazole,dibutyl ether,squalane,0.00501,1.0,0.0,0.00501,0.000671,298.0
+7.0,Carbazole,dibutyl ether,Hexadecane,0.000414,0.0,1.0,0.00501,0.000414,298.0
+7.0,Carbazole,dibutyl ether,Hexadecane,0.00501,1.0,0.0,0.00501,0.000414,298.0
+8.0,Benzil,CCl4,iso-Octane,0.00587,0.0,1.0,0.08082,0.00587,298.0
+8.0,Benzil,CCl4,iso-Octane,0.08082,1.0,0.0,0.08082,0.00587,298.0
+9.0,Benzil,Cyclohexane,iso-Octane,0.00587,0.0,1.0,0.01067,0.00587,298.0
+9.0,Benzil,Cyclohexane,iso-Octane,0.01067,1.0,0.0,0.01067,0.00587,298.0
+10.0,Benzil,Cyclohexane,n-Heptane,0.00659,0.0,1.0,0.01067,0.00659,298.0
+10.0,Benzil,Cyclohexane,n-Heptane,0.01067,1.0,0.0,0.01067,0.00659,298.0
+11.0,Benzil,Cyclooctane,Cyclohexane,0.01068,0.0,1.0,0.01454,0.01068,298.0
+11.0,Benzil,Cyclooctane,Cyclohexane,0.01454,1.0,0.0,0.01454,0.01068,298.0
+12.0,Benzil,CCl4,n-Octane,0.00726,0.0,1.0,0.08082,0.00726,298.0
+12.0,Benzil,CCl4,n-Octane,0.08082,1.0,0.0,0.08082,0.00726,298.0
+13.0,Benzil,Cyclohexane,n-Octane,0.00726,0.0,1.0,0.01068,0.00726,298.0
+13.0,Benzil,Cyclohexane,n-Octane,0.01068,1.0,0.0,0.01068,0.00726,298.0
+14.0,Benzil,CCl4,Cyclooctane,0.01454,0.0,1.0,0.08082,0.01454,298.0
+14.0,Benzil,CCl4,Cyclooctane,0.08082,1.0,0.0,0.08082,0.01454,298.0
+15.0,Niflumic acid,Ethanol,Water,5.45e-06,0.0,1.0,0.01613,5.45e-06,298.0
+15.0,Niflumic acid,Ethanol,Water,0.01613,1.0,0.0,0.01613,5.45e-06,298.0
+15.0,Niflumic acid,Ethanol,Water,5.63e-06,0.0,1.0,0.0185,5.63e-06,303.0
+15.0,Niflumic acid,Ethanol,Water,0.0185,1.0,0.0,0.0185,5.63e-06,303.0
+16.0,Niflumic acid,Ethyl Acetate,Ethanol,0.01613,0.0,1.0,0.0254,0.01613,298.0
+16.0,Niflumic acid,Ethyl Acetate,Ethanol,0.0254,1.0,0.0,0.0254,0.01613,298.0
+16.0,Niflumic acid,Ethyl Acetate,Ethanol,0.0185,0.0,1.0,0.0264,0.0185,303.0
+16.0,Niflumic acid,Ethyl Acetate,Ethanol,0.0264,1.0,0.0,0.0264,0.0185,303.0
+17.0,Caffeine,Water,Ethanol,0.0017,0.0,1.0,0.00209,0.0017,298.0
+17.0,Caffeine,Water,Ethanol,0.00209,1.0,0.0,0.00209,0.0017,298.0
+17.0,Caffeine,Water,Ethanol,0.00216,0.0,1.0,0.00307,0.00216,308.0
+17.0,Caffeine,Water,Ethanol,0.00307,1.0,0.0,0.00307,0.00216,308.0
+18.0,Caffeine,Ethyl Acetate,Ethanol,0.0017,0.0,1.0,0.00409,0.0017,298.0
+18.0,Caffeine,Ethyl Acetate,Ethanol,0.00409,1.0,0.0,0.00409,0.0017,298.0
+18.0,Caffeine,Ethyl Acetate,Ethanol,0.00216,0.0,1.0,0.00489,0.00216,308.0
+18.0,Caffeine,Ethyl Acetate,Ethanol,0.00489,1.0,0.0,0.00489,0.00216,308.0
+19.0,Caffeine,Dioxane,Water,0.00229,0.0,1.0,0.00849,0.00229,298.0
+19.0,Caffeine,Dioxane,Water,0.00849,1.0,0.0,0.00849,0.00229,298.0
+20.0,Carbazole,Dibutyl Ether,1-Chlorooctane,0.00242,0.0,1.0,0.00501,0.00242,298.0
+20.0,Carbazole,Dibutyl Ether,1-Chlorooctane,0.00501,1.0,0.0,0.00501,0.00242,298.0
+21.0,Carbazole,Dibutyl Ether,1-Chlorotetradecane,0.0024,0.0,1.0,0.00501,0.0024,298.0
+21.0,Carbazole,Dibutyl Ether,1-Chlorotetradecane,0.00501,1.0,0.0,0.00501,0.0024,298.0
+22.0,Carbazole,Dibutyl Ether,Chlorocyclohexane,0.00291,0.0,1.0,0.00501,0.00291,298.0
+22.0,Carbazole,Dibutyl Ether,Chlorocyclohexane,0.00501,1.0,0.0,0.00501,0.00291,298.0
+23.0,Benzoic acid,CCl4,Cyclohexane,0.0115,0.0,1.0,0.0492,0.0115,298.0
+23.0,Benzoic acid,CCl4,Cyclohexane,0.0492,1.0,0.0,0.0492,0.0115,298.0
+24.0,Benzoic acid,CCl4,n-Heptane,0.0114,0.0,1.0,0.0492,0.0114,298.0
+24.0,Benzoic acid,CCl4,n-Heptane,0.0492,1.0,0.0,0.0492,0.0114,298.0
+24.0,Benzoic acid,CCl4,n-Heptane,0.0147,0.0,1.0,0.0598,0.0147,303.0
+24.0,Benzoic acid,CCl4,n-Heptane,0.0598,1.0,0.0,0.0598,0.0147,303.0
+25.0,Benzoic acid,CCl4,n-Hexane,0.01,0.0,1.0,0.0492,0.01,298.0
+25.0,Benzoic acid,CCl4,n-Hexane,0.0492,1.0,0.0,0.0492,0.01,298.0
+26.0,Benzoic acid,Cyclohexane,n-Hexane,0.01,0.0,1.0,0.0115,0.01,298.0
+26.0,Benzoic acid,Cyclohexane,n-Hexane,0.0115,1.0,0.0,0.0115,0.01,298.0
+26.0,Benzoic acid,Cyclohexane,n-Hexane,0.0126,0.0,1.0,0.0146,0.0126,303.0
+26.0,Benzoic acid,Cyclohexane,n-Hexane,0.0146,1.0,0.0,0.0146,0.0126,303.0
+27.0,Benzoic acid,Cyclohexane,n-Heptane,0.0114,0.0,1.0,0.0115,0.0114,298.0
+27.0,Benzoic acid,Cyclohexane,n-Heptane,0.0115,1.0,0.0,0.0115,0.0114,298.0
+28.0,Carbazole,Dibutyl Ether,1-ChloroHexane,0.00255,0.0,1.0,0.00501,0.00255,298.0
+28.0,Carbazole,Dibutyl Ether,1-ChloroHexane,0.00501,1.0,0.0,0.00501,0.00255,298.0
+29.0,Anthracene,n-Hexane,Cyclohexane,0.00129,0.0,1.0,0.001574,0.00129,298.0
+29.0,Anthracene,n-Hexane,Cyclohexane,0.001574,1.0,0.0,0.001574,0.00129,298.0
+30.0,Anthracene,n-Octane,Cyclohexane,0.001574,0.0,1.0,0.00185,0.001574,298.0
+30.0,Anthracene,n-Octane,Cyclohexane,0.00185,1.0,0.0,0.00185,0.001574,298.0
+31.0,Anthracene,CycloOctane,Cyclohexane,0.001574,0.0,1.0,0.002258,0.001574,298.0
+31.0,Anthracene,CycloOctane,Cyclohexane,0.002258,1.0,0.0,0.002258,0.001574,298.0
+32.0,Anthracene,Cyclohexane,n-Heptane,0.001571,0.0,1.0,0.001574,0.001571,298.0
+32.0,Anthracene,Cyclohexane,n-Heptane,0.001574,1.0,0.0,0.001574,0.001571,298.0
+33.0,Anthracene,Cyclohexane,Iso-Octane,0.001087,0.0,1.0,0.001574,0.001087,298.0
+33.0,Anthracene,Cyclohexane,Iso-Octane,0.001574,1.0,0.0,0.001574,0.001087,298.0
+34.0,Anthracene,Benzene,n-Hexane,0.00129,0.0,1.0,0.007418,0.00129,298.0
+34.0,Anthracene,Benzene,n-Hexane,0.007418,1.0,0.0,0.007418,0.00129,298.0
+35.0,Anthracene,Benzene,n-Heptane,0.001571,0.0,1.0,0.007418,0.001571,298.0
+35.0,Anthracene,Benzene,n-Heptane,0.007418,1.0,0.0,0.007418,0.001571,298.0
+36.0,Anthracene,Benzene,Cyclohexane,0.001574,0.0,1.0,0.007418,0.001574,298.0
+36.0,Anthracene,Benzene,Cyclohexane,0.007418,1.0,0.0,0.007418,0.001574,298.0
+37.0,Anthracene,Benzene,CycloOctane,0.002258,0.0,1.0,0.007418,0.002258,298.0
+37.0,Anthracene,Benzene,CycloOctane,0.007418,1.0,0.0,0.007418,0.002258,298.0
+38.0,Anthracene,Benzene,Iso-Octane,0.001087,0.0,1.0,0.007418,0.001087,298.0
+38.0,Anthracene,Benzene,Iso-Octane,0.007418,1.0,0.0,0.007418,0.001087,298.0
+39.0,Iodine,Hexadecane,n-Heptane,0.00692,0.0,1.0,0.01428,0.00692,298.0
+39.0,Iodine,Hexadecane,n-Heptane,0.01428,1.0,0.0,0.01428,0.00692,298.0
+40.0,Iodine,Hexadecane,Iso-Octane,0.005923,0.0,1.0,0.01428,0.005923,298.0
+40.0,Iodine,Hexadecane,Iso-Octane,0.01428,1.0,0.0,0.01428,0.005923,298.0
+41.0,Napthalene,Ethanol,water,4.11e-06,0.0,1.0,0.039835,4.11e-06,298.0
+41.0,Napthalene,Ethanol,water,0.039835,1.0,0.0,0.039835,4.11e-06,298.0
+42.0,naproxen ,Ethanol,water,5.13e-06,0.0,1.0,0.01494,5.13e-06,298.0
+42.0,naproxen ,Ethanol,water,0.01494,1.0,0.0,0.01494,5.13e-06,298.0
+42.0,naproxen ,Ethanol,water,5.91e-06,0.0,1.0,0.01976,5.91e-06,303.0
+42.0,naproxen ,Ethanol,water,0.01976,1.0,0.0,0.01976,5.91e-06,303.0
+43.0,o-chlorobenzoic acid,dimethylformamide,water,0.00024,0.0,1.0,0.16084,0.00024,303.0
+43.0,o-chlorobenzoic acid,dimethylformamide,water,0.16084,1.0,0.0,0.16084,0.00024,303.0
+44.0,p-chlorobenzoic acid,dimethylformamide,water,9e-06,0.0,1.0,0.47067,9e-06,303.0
+44.0,p-chlorobenzoic acid,dimethylformamide,water,0.47067,1.0,0.0,0.47067,9e-06,303.0
+45.0,o-nitroaniline,dimethylformamide,water,0.00013,0.0,1.0,0.54325,0.00013,303.0
+45.0,o-nitroaniline,dimethylformamide,water,0.54325,1.0,0.0,0.54325,0.00013,303.0
+46.0,p-nitroaniline,dimethylformamide,water,0.00011,0.0,1.0,0.41214,0.00011,303.0
+46.0,p-nitroaniline,dimethylformamide,water,0.41214,1.0,0.0,0.41214,0.00011,303.0
+47.0,Methyl p-hydroxybenzoate,Propylene Glycol,Water,0.00030353913,0.0,1.0,0.0944202232,0.00030353913,300.0
+47.0,Methyl p-hydroxybenzoate,Propylene Glycol,Water,0.0944202232,1.0,0.0,0.0944202232,0.00030353913,300.0
+48.0,Methyl p-aminobenzoate,Propylene Glycol,Water,0.0001600538879,0.0,1.0,0.03206468533,0.0001600538879,300.0
+48.0,Methyl p-aminobenzoate,Propylene Glycol,Water,0.03206468533,1.0,0.0,0.03206468533,0.0001600538879,300.0
+49.0,Ethyl p-hydroxybenzoate,Propylene Glycol,Water,0.0001020548647,0.0,1.0,0.078081666,0.0001020548647,300.0
+49.0,Ethyl p-hydroxybenzoate,Propylene Glycol,Water,0.078081666,1.0,0.0,0.078081666,0.0001020548647,300.0
+50.0,Ethyl p-aminobenzoate,Propylene Glycol,Water,0.0001072873295,0.0,1.0,0.05669892658,0.0001072873295,300.0
+50.0,Ethyl p-aminobenzoate,Propylene Glycol,Water,0.05669892658,1.0,0.0,0.05669892658,0.0001072873295,300.0
+51.0,Propyl p-hydroxybenzoate,Propylene Glycol,Water,4.361977305e-05,0.0,1.0,0.0862935865,4.361977305e-05,300.0
+51.0,Propyl p-hydroxybenzoate,Propylene Glycol,Water,0.0862935865,1.0,0.0,0.0862935865,4.361977305e-05,300.0
+52.0,Propyl p-aminobenzoate,Propylene Glycol,Water,4.772763394e-05,0.0,1.0,0.08374322559,4.772763394e-05,300.0
+52.0,Propyl p-aminobenzoate,Propylene Glycol,Water,0.08374322559,1.0,0.0,0.08374322559,4.772763394e-05,300.0
+53.0,n-Butyl p-hydroxybenzoate,Propylene Glycol,Water,2.89482733e-05,0.0,1.0,0.1720448638,2.89482733e-05,300.0
+53.0,n-Butyl p-hydroxybenzoate,Propylene Glycol,Water,0.1720448638,1.0,0.0,0.1720448638,2.89482733e-05,300.0
+54.0,n-Butyl paminobenzoate,Propylene Glycol,Water,1.637098496e-05,0.0,1.0,0.08981529457,1.637098496e-05,300.0
+54.0,n-Butyl paminobenzoate,Propylene Glycol,Water,0.08981529457,1.0,0.0,0.08981529457,1.637098496e-05,300.0
+55.0,Paracetamol,Ethanol,Water,0.0019,0.0,1.0,0.0542,0.0019,298.0
+55.0,Paracetamol,Ethanol,Water,0.0542,1.0,0.0,0.0542,0.0019,298.0
+56.0,Paracetamol,Ethanol,Ethylacetate,0.0073,0.0,1.0,0.0542,0.0073,298.0
+56.0,Paracetamol,Ethanol,Ethylacetate,0.0542,1.0,0.0,0.0542,0.0073,298.0
+57.0,Acetaminophen,Ethanol,Propylene glycol,0.00603,0.0,1.0,0.0062,0.00603,303.0
+57.0,Acetaminophen,Ethanol,Propylene glycol,0.0062,1.0,0.0,0.0062,0.00603,303.0
+57.0,Acetaminophen,Ethanol,Propylene glycol,0.00483,0.0,1.0,0.005045,0.00483,293.0
+57.0,Acetaminophen,Ethanol,Propylene glycol,0.005045,1.0,0.0,0.005045,0.00483,293.0
+58.0,Acetaminophen,Propylene glycol,Water,0.00209,0.0,1.0,0.0603,0.00209,303.0
+58.0,Acetaminophen,Propylene glycol,Water,0.0603,1.0,0.0,0.0603,0.00209,303.0
+58.0,Acetaminophen,Propylene glycol,Water,0.00152,0.0,1.0,0.0486,0.00152,293.0
+58.0,Acetaminophen,Propylene glycol,Water,0.0486,1.0,0.0,0.0486,0.00152,293.0
+59.0,Sulfanilamide,Water,Ethanol,0.000644,0.0,1.0,0.007559,0.000644,298.0
+59.0,Sulfanilamide,Water,Ethanol,0.007559,1.0,0.0,0.007559,0.000644,298.0
+60.0,Sulfanilamide,Ethylacetate,Ethanol,0.000644,0.0,1.0,0.009058,0.000644,298.0
+60.0,Sulfanilamide,Ethylacetate,Ethanol,0.009058,1.0,0.0,0.009058,0.000644,298.0
+61.0,Sulfamethazine,Water,Ethanol,3.03e-06,0.0,1.0,0.000749,3.03e-06,298.0
+61.0,Sulfamethazine,Water,Ethanol,0.000749,1.0,0.0,0.000749,3.03e-06,298.0
+62.0,Sulfamethazine,Ethylacetate,Ethanol,3.03e-06,0.0,1.0,0.001364455269,3.03e-06,298.0
+62.0,Sulfamethazine,Ethylacetate,Ethanol,0.001364455269,1.0,0.0,0.001364455269,3.03e-06,298.0
+63.0,xinafoate,Dioxane,Water,0.003862,0.0,1.0,0.093621,0.003862,292.0
+63.0,xinafoate,Dioxane,Water,0.093621,1.0,0.0,0.093621,0.003862,292.0
