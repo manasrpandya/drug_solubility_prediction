@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to replicate and extend the methodologies presented in the paper "[Machine Learning Derived Quantitative Structure Property Relationship Models to Predict Drug Solubility in Binary Solvent Mixtures](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00282)". The objective is to implement and evaluate different solubility prediction models, including the Yalkowsky model, Jouyban-Acree models, Multiple Model Learning (MML), and Neural Networks (NN).
+This project aims to replicate and extend the methodologies presented in the paper "[Machine Learning Derived Quantitative Structure Property Relationship Models to Predict Drug Solubility in Binary Solvent Mixtures]([https://pubs.acs.org/doi/10.1021/acs.jcim.1c00282](https://pubs.acs.org/doi/10.1021/acs.iecr.8b04584))". The objective is to implement and evaluate different solubility prediction models, including the Yalkowsky model, Jouyban-Acree models, Multiple Model Learning (MML), and Neural Networks (NN).
 
 ## Data Preprocessing
 
@@ -51,4 +51,4 @@ A neural network model was attempted but faced implementation challenges due to 
 
 ## References
 
-- [Machine Learning Derived Quantitative Structure Property Relationship Models to Predict Drug Solubility in Binary Solvent Mixtures](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00282)
+- [Machine Learning Derived Quantitative Structure Property Relationship Models to Predict Drug Solubility in Binary Solvent Mixtures]([https://pubs.acs.org/doi/10.1021/acs.jcim.1c00282](https://pubs.acs.org/doi/10.1021/acs.iecr.8b04584))
