@@ -6,7 +6,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
-# Assuming merged_data is already available from previous steps
 # Extract features and target variable
 features = merged_data.drop(columns=['System No', 'Solute', 'Solvent 1', 'Solvent 2', 'Xs_Exper', 'x1', 'x2', 'xs1p', 'xs2p', 'Temp'])
 target = merged_data['Xs_Exper']
