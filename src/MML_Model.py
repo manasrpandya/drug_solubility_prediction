@@ -5,9 +5,6 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import r2_score
 from sklearn.model_selection import train_test_split
 
-# Assuming best_overall contains the best individual selected from GA
-# and merged_data is already available
-
 # Extract features and target
 X = merged_data.drop(columns=['Xs_Exper'])
 y = merged_data['Xs_Exper']
